@@ -12,5 +12,3 @@ sudo apt-get install ansible -y
 
 //ansible requires python
 sudo apt-get install python -y
-
- 
