@@ -1,5 +1,4 @@
 #!/bin/bash
-//new line
 //install the necessary repository command
 sudo apt-add-repository ppa:ansible/ansible
 
